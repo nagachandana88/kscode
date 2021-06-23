@@ -8,7 +8,7 @@ pipeline {
   stages {
      stage('git clone') {
       steps {
-       git credentialsId: 'github', url: 'https://github.com/nagachandana88/pro1.git'
+       git credentialsId: 'github', url: 'https://github.com/nagachandana88/kscode.git'
                   }
      }
     stage('Build clean') {
