@@ -7,7 +7,7 @@
 
 <body bgcolor="#8C8583">
 <center>
-<h2> <font color="#FD4109"> New devops Project deployment  </font> </h2>
+<h2> <font color="#FD4108"> New devops AWS deploy  </font> </h2>
 </center>	
 </body>
 </html>
