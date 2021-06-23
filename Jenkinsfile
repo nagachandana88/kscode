@@ -25,8 +25,8 @@ pipeline {
      steps{
             sh'mvn sonar:sonar \
             -Dsonar.projectKey=chandana \
-            -Dsonar.host.url=http://3.15.153.97:9000 \
-            -Dsonar.login=09810932db362ffdab42cff46316a3c9c6e268df'
+            -Dsonar.host.url=http://18.117.136.142:9000 \
+            -Dsonar.login=718c6ffec39069d6d68b5a75a80e5081c618db43'
           }
    }
  stage('Build test') {
